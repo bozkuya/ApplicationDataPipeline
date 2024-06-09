@@ -1,0 +1,48 @@
+/* Global body styling */
+body {
+  padding: 50px;
+  font: 16px "Arial", Helvetica, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* Styling for links */
+a {
+  color: #00B7FF;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Additional styling for headers */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Arial", Helvetica, sans-serif;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+/* Container styling */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+/* Styling for buttons */
+button {
+  background-color: #00B7FF;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #008FCC;
+}
