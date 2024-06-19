@@ -1,4 +1,4 @@
-# Codeway Case Study
+# Application Data Pipeline
  
 
 This project implements a data pipeline web service using Node.js, Express, Google Cloud Pub/Sub, and Google Cloud BigQuery. The service collects event logs from mobile devices, stores them in BigQuery, and provides an analytics endpoint to retrieve aggregated results.
